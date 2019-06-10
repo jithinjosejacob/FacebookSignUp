@@ -1,6 +1,9 @@
 # FacebookSignUp
 Sample Project for SignUp a Facebook Account
 
+Technology Used - This project uses Selenium Java(IDE - Eclipse)
+This project has been created using Cucumber Framework using Gherkins which follows Behaviour Driven Development
+
 This Project has been created based on 3 Assumptions
 
 Assumption 1: https://www.facebook.com/ has a Signup Page
@@ -13,5 +16,4 @@ Cucumber Feature File - src/main/java/Features/NavigationtoFbSignUp.feature
 
 Runner Class - src/test/java/Runner/TestRunner.java
 
-Note : This is a positive TestCase,Incase of extending this to negative scenarios in future,we can reuse the steps until User clicks SignUp
-and validate the error messages
+Note : This is a positive TestCase,Incase of extending this to negative scenarios in future,we can reuse the steps until User clicks SignUp in a new Feature File and validate the error messages
