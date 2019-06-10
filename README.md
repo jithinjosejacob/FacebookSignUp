@@ -2,7 +2,7 @@
 Sample Project for SignUp a Facebook Account
 
 Technology Used - This project uses Selenium Java(IDE - Eclipse)
-This project has been created using Cucumber Framework using Gherkins which follows Behaviour Driven Development
+This project has been created using Selenium Java and Cucumber Framework using Gherkins which follows Behaviour Driven Development
 
 This Project has been created based on 3 Assumptions
 
