@@ -17,6 +17,8 @@ How to Run : Once Entire Project has been copied to Eclipse,Either run the Cucum
 Cucumber Feature File - src/main/java/Features/NavigationtoFbSignUp.feature
 
 Runner Class - src/test/java/Runner/TestRunner.java
+if Runner class is used make sure you change the Feature file path(features 
+"C:\\Users\\ADMIN\\workspace\\FacebookSignUp\\src\\main\\java\\Features\\NavigationtoFbSignUp.feature") to the path of feature file in your machine
 
 Code Location - src/test/java/StepDefinitions/NavigationtoFbSignUp.java
 
