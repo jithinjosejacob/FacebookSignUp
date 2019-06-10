@@ -7,7 +7,9 @@ This project has been created using Selenium Java and Cucumber Framework using G
 This Project has been created based on 3 Assumptions
 
 Assumption 1: https://www.facebook.com/ has a Signup Page
+
 Assumption 2:User can enter SignUp Information into SignUp Page
+
 Assumption 3: Once User Enters Information and clicks SignUp,user will be navigated to a Page with header "Confirm your email address"
 
 How to Run : Once Entire Project has been copied to Eclipse,Either run the Cucumber Feature File or Runner Class in Eclipse
